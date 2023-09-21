@@ -9,6 +9,7 @@ body{
     margin-right: 10%;
 }
 .pay{
+    /* text-align: justify; */
     border-radius: 5px;
     border-color: pink;
     text-align: center;
